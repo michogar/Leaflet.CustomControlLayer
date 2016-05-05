@@ -1,0 +1,19 @@
+{
+  "name": "leafletcontrollayer",
+  "version": "1.0.0",
+  "description": "L.Control.Layers is a control to allow users to switch between two layers on the map",
+  "main": "Control.CustomLayers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "layer",
+    "control",
+    "leaflet"
+  ],
+  "author": "Micho Garc&iacute;a <micho.garcia@geomati.co>",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^0.7.3"
+  }
+}
